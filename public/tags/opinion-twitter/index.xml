@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinion, Twitter on iTheme</title>
+    <link>//localhost:1313/tags/opinion-twitter/</link>
+    <description>Recent content in Opinion, Twitter on iTheme</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Floyd Li</copyright>
+    <lastBuildDate>Wed, 30 Nov 2022 15:49:43 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/opinion-twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitters Downfall</title>
+      <link>//localhost:1313/posts/twitters-downfall/</link>
+      <pubDate>Wed, 30 Nov 2022 15:49:43 +0530</pubDate>
+      <guid>//localhost:1313/posts/twitters-downfall/</guid>
+      <description>Prologue Unless you&amp;rsquo;re living under a rock, you would know that Elon Musk bought Twitter. For all the people living in a cave Twitter is the world&amp;rsquo;s largest micro-blogging app, rivaled only by Koo, it also happens to be the worst place to share your opinion, Rivaled only by a school.&#xA;Originally, Twitter was meant to be a place where you could share anything you want - from your daily life to your opinion on the news - without having to worry about being suppressed.</description>
+    </item>
+  </channel>
+</rss>

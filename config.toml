@@ -3,16 +3,16 @@ languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 enableEmoji = true
-title = 'iTheme'
-copyright = 'Floyd Li'
+title = "Pranav's Blog"
+copyright = 'Pranav Thandassery'
 theme = 'hugo-theme-itheme'
 paginate = 5
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
-  email = 'floyd.li@outlook.com'
+  email = 'pranav@potatoman.com'
   [[params.socialMedia]]
     name = 'Github'
-    url = 'https://github.com/floyd-li'
+    url = 'https://github.com/vexnity'
   [[params.blogroll]]
-    name = '驭风笔记'
-    url = 'https://yufengbiji.com/'
+    name = 'idk what to put here'
+    url = 'https://example.com/'

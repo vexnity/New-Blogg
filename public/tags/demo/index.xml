@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on iTheme</title>
+    <link>//localhost:1313/tags/demo/</link>
+    <description>Recent content in Demo on iTheme</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Floyd Li</copyright>
+    <lastBuildDate>Sat, 25 Mar 2023 15:04:53 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iTheme for Hugo</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 25 Mar 2023 15:04:53 +0800</pubDate>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description>If you like this theme, please give me a star! Introduction 中文说明 An Apple style theme for Hugo, inspired by astro-air-blog Preview Demo Site Quick Start Before you start, make sure you have installed Hugo. Quick start with the demo site Here&amp;rsquo;s the demo site repo git clone --recurse-submodules https://github.com/floyd-li/itheme-demo-site.git my-site cd ./my-site &amp;amp;&amp;amp; hugo server -D Then you can visit http://localhost:1313 to see the demo site!</description>
+    </item>
+  </channel>
+</rss>
